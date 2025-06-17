@@ -1,0 +1,1646 @@
+{
+    "2021": {
+        "top_teams_by_goals": [
+            {
+                "team": "Manchester City",
+                "goals": 99
+            },
+            {
+                "team": "Liverpool",
+                "goals": 94
+            },
+            {
+                "team": "Chelsea",
+                "goals": 85
+            },
+            {
+                "team": "Arsenal",
+                "goals": 82
+            },
+            {
+                "team": "Tottenham",
+                "goals": 80
+            }
+        ],
+        "top_players_by_goals": [
+            {
+                "player": "Harry Kane",
+                "team": "Tottenham",
+                "goals": 23
+            },
+            {
+                "player": "Salah",
+                "team": "Liverpool",
+                "goals": 22
+            },
+            {
+                "player": "Bruno Fernandes",
+                "team": "Manchester United",
+                "goals": 20
+            },
+            {
+                "player": "Son Heung-min",
+                "team": "Tottenham",
+                "goals": 18
+            },
+            {
+                "player": "Sterling",
+                "team": "Man City",
+                "goals": 17
+            }
+        ],
+        "top_players_by_assists": [
+            {
+                "player": "De Bruyne",
+                "team": "Man City",
+                "assists": 16
+            },
+            {
+                "player": "Trent Alexander-Arnold",
+                "team": "Liverpool",
+                "assists": 14
+            },
+            {
+                "player": "Bruno Fernandes",
+                "team": "Man Utd",
+                "assists": 13
+            },
+            {
+                "player": "Son Heung-min",
+                "team": "Tottenham",
+                "assists": 12
+            },
+            {
+                "player": "Grealish",
+                "team": "Aston Villa",
+                "assists": 11
+            }
+        ],
+        "league_table": [
+            {
+                "position": 1,
+                "team": "Manchester City",
+                "points": 86
+            },
+            {
+                "position": 2,
+                "team": "Manchester United",
+                "points": 74
+            },
+            {
+                "position": 3,
+                "team": "Liverpool",
+                "points": 69
+            },
+            {
+                "position": 4,
+                "team": "Chelsea",
+                "points": 67
+            },
+            {
+                "position": 5,
+                "team": "Leicester City",
+                "points": 66
+            },
+            {
+                "position": 6,
+                "team": "West Ham United",
+                "points": 65
+            },
+            {
+                "position": 7,
+                "team": "Tottenham Hotspur",
+                "points": 62
+            },
+            {
+                "position": 8,
+                "team": "Arsenal",
+                "points": 61
+            },
+            {
+                "position": 9,
+                "team": "Leeds United",
+                "points": 59
+            },
+            {
+                "position": 10,
+                "team": "Everton",
+                "points": 59
+            },
+            {
+                "position": 11,
+                "team": "Aston Villa",
+                "points": 55
+            },
+            {
+                "position": 12,
+                "team": "Newcastle United",
+                "points": 45
+            },
+            {
+                "position": 13,
+                "team": "Wolverhampton Wanderers",
+                "points": 45
+            },
+            {
+                "position": 14,
+                "team": "Crystal Palace",
+                "points": 44
+            },
+            {
+                "position": 15,
+                "team": "Southampton",
+                "points": 43
+            },
+            {
+                "position": 16,
+                "team": "Brighton & Hove Albion",
+                "points": 41
+            },
+            {
+                "position": 17,
+                "team": "Burnley",
+                "points": 39
+            },
+            {
+                "position": 18,
+                "team": "Fulham",
+                "points": 28
+            },
+            {
+                "position": 19,
+                "team": "West Bromwich Albion",
+                "points": 26
+            },
+            {
+                "position": 20,
+                "team": "Sheffield United",
+                "points": 23
+            }
+        ],
+        "team_goals": {
+            "Manchester City": 99,
+            "Liverpool": 94,
+            "Chelsea": 85,
+            "Arsenal": 82,
+            "Tottenham": 80,
+            "Manchester United": 74,
+            "Leicester City": 68,
+            "West Ham": 65,
+            "Aston Villa": 63,
+            "Everton": 59,
+            "Leeds United": 58,
+            "Wolves": 52,
+            "Newcastle": 46,
+            "Crystal Palace": 44,
+            "Southampton": 43,
+            "Brighton": 42,
+            "Burnley": 36,
+            "Fulham": 27,
+            "West Brom": 26,
+            "Sheffield United": 20
+        },
+        "best_players": {
+            "league_best": {
+                "player": "Salah",
+                "team": "Liverpool"
+            },
+            "teams_best": {
+                "Manchester City": [
+                    {
+                        "player": "De Bruyne",
+                        "role": "Midfielder"
+                    },
+                    {
+                        "player": "Foden",
+                        "role": "Midfielder"
+                    }
+                ],
+                "Liverpool": [
+                    {
+                        "player": "Salah",
+                        "role": "Forward"
+                    },
+                    {
+                        "player": "Mane",
+                        "role": "Forward"
+                    }
+                ],
+                "Chelsea": [
+                    {
+                        "player": "Mount",
+                        "role": "Midfielder"
+                    },
+                    {
+                        "player": "Kante",
+                        "role": "Midfielder"
+                    }
+                ],
+                "Arsenal": [
+                    {
+                        "player": "Saka",
+                        "role": "Forward"
+                    },
+                    {
+                        "player": "Smith Rowe",
+                        "role": "Midfielder"
+                    }
+                ],
+                "Tottenham": [
+                    {
+                        "player": "Kane",
+                        "role": "Forward"
+                    },
+                    {
+                        "player": "Son",
+                        "role": "Forward"
+                    }
+                ],
+                "Manchester United": [
+                    {
+                        "player": "Bruno Fernandes",
+                        "role": "Midfielder"
+                    },
+                    {
+                        "player": "Rashford",
+                        "role": "Forward"
+                    }
+                ],
+                "Leicester City": [
+                    {
+                        "player": "Vardy",
+                        "role": "Forward"
+                    },
+                    {
+                        "player": "Maddison",
+                        "role": "Midfielder"
+                    }
+                ],
+                "West Ham": [
+                    {
+                        "player": "Rice",
+                        "role": "Midfielder"
+                    },
+                    {
+                        "player": "Bowen",
+                        "role": "Forward"
+                    }
+                ],
+                "Aston Villa": [
+                    {
+                        "player": "Grealish",
+                        "role": "Midfielder"
+                    },
+                    {
+                        "player": "Watkins",
+                        "role": "Forward"
+                    }
+                ],
+                "Everton": [
+                    {
+                        "player": "Calvert-Lewin",
+                        "role": "Forward"
+                    },
+                    {
+                        "player": "Richarlison",
+                        "role": "Forward"
+                    }
+                ],
+                "Leeds United": [
+                    {
+                        "player": "Raphinha",
+                        "role": "Forward"
+                    },
+                    {
+                        "player": "Bamford",
+                        "role": "Forward"
+                    }
+                ],
+                "Wolves": [
+                    {
+                        "player": "Neto",
+                        "role": "Forward"
+                    },
+                    {
+                        "player": "Jimenez",
+                        "role": "Forward"
+                    }
+                ],
+                "Newcastle": [
+                    {
+                        "player": "Wilson",
+                        "role": "Forward"
+                    },
+                    {
+                        "player": "Saint-Maximin",
+                        "role": "Forward"
+                    }
+                ],
+                "Crystal Palace": [
+                    {
+                        "player": "Zaha",
+                        "role": "Forward"
+                    },
+                    {
+                        "player": "Eze",
+                        "role": "Midfielder"
+                    }
+                ],
+                "Southampton": [
+                    {
+                        "player": "Ward-Prowse",
+                        "role": "Midfielder"
+                    },
+                    {
+                        "player": "Ings",
+                        "role": "Forward"
+                    }
+                ],
+                "Brighton": [
+                    {
+                        "player": "Bissouma",
+                        "role": "Midfielder"
+                    },
+                    {
+                        "player": "Maupay",
+                        "role": "Forward"
+                    }
+                ],
+                "Burnley": [
+                    {
+                        "player": "Wood",
+                        "role": "Forward"
+                    },
+                    {
+                        "player": "McNeil",
+                        "role": "Midfielder"
+                    }
+                ],
+                "Fulham": [
+                    {
+                        "player": "Lookman",
+                        "role": "Forward"
+                    },
+                    {
+                        "player": "Mitrovic",
+                        "role": "Forward"
+                    }
+                ],
+                "West Brom": [
+                    {
+                        "player": "Pereira",
+                        "role": "Midfielder"
+                    },
+                    {
+                        "player": "Diagne",
+                        "role": "Forward"
+                    }
+                ],
+                "Sheffield United": [
+                    {
+                        "player": "Berge",
+                        "role": "Midfielder"
+                    },
+                    {
+                        "player": "McGoldrick",
+                        "role": "Forward"
+                    }
+                ]
+            }
+        }
+    },
+    "2022": {
+    "top_teams_by_goals": [
+        {
+            "team": "Manchester City",
+            "goals": 99
+        },
+        {
+            "team": "Liverpool",
+            "goals": 94
+        },
+        {
+            "team": "Chelsea",
+            "goals": 76
+        },
+        {
+            "team": "Tottenham",
+            "goals": 69
+        },
+        {
+            "team": "Arsenal",
+            "goals": 61
+        }
+    ],
+    "top_players_by_goals": [
+        {
+            "player": "Mohamed Salah",
+            "team": "Liverpool",
+            "goals": 23
+        },
+        {
+            "player": "Son Heung-min",
+            "team": "Tottenham",
+            "goals": 23
+        },
+        {
+            "player": "Cristiano Ronaldo",
+            "team": "Manchester United",
+            "goals": 18
+        },
+        {
+            "player": "Harry Kane",
+            "team": "Tottenham",
+            "goals": 17
+        },
+        {
+            "player": "Sadio Mané",
+            "team": "Liverpool",
+            "goals": 16
+        }
+    ],
+    "top_players_by_assists": [
+        {
+            "player": "Mohamed Salah",
+            "team": "Liverpool",
+            "assists": 13
+        },
+        {
+            "player": "Trent Alexander-Arnold",
+            "team": "Liverpool",
+            "assists": 12
+        },
+        {
+            "player": "Andrew Robertson",
+            "team": "Liverpool",
+            "assists": 10
+        },
+        {
+            "player": "Mason Mount",
+            "team": "Chelsea",
+            "assists": 10
+        },
+        {
+            "player": "Jarrod Bowen",
+            "team": "West Ham",
+            "assists": 10
+        }
+    ],
+    "league_table": [
+        {
+            "position": 1,
+            "team": "Manchester City",
+            "points": 93
+        },
+        {
+            "position": 2,
+            "team": "Liverpool",
+            "points": 92
+        },
+        {
+            "position": 3,
+            "team": "Chelsea",
+            "points": 74
+        },
+        {
+            "position": 4,
+            "team": "Tottenham",
+            "points": 71
+        },
+        {
+            "position": 5,
+            "team": "Arsenal",
+            "points": 69
+        },
+        {
+            "position": 6,
+            "team": "Manchester United",
+            "points": 58
+        },
+        {
+            "position": 7,
+            "team": "West Ham",
+            "points": 56
+        },
+        {
+            "position": 8,
+            "team": "Leicester City",
+            "points": 52
+        },
+        {
+            "position": 9,
+            "team": "Brighton",
+            "points": 51
+        },
+        {
+            "position": 10,
+            "team": "Wolves",
+            "points": 51
+        },
+        {
+            "position": 11,
+            "team": "Newcastle",
+            "points": 49
+        },
+        {
+            "position": 12,
+            "team": "Crystal Palace",
+            "points": 48
+        },
+        {
+            "position": 13,
+            "team": "Brentford",
+            "points": 46
+        },
+        {
+            "position": 14,
+            "team": "Aston Villa",
+            "points": 45
+        },
+        {
+            "position": 15,
+            "team": "Southampton",
+            "points": 40
+        },
+        {
+            "position": 16,
+            "team": "Everton",
+            "points": 39
+        },
+        {
+            "position": 17,
+            "team": "Leeds",
+            "points": 38
+        },
+        {
+            "position": 18,
+            "team": "Burnley",
+            "points": 35
+        },
+        {
+            "position": 19,
+            "team": "Watford",
+            "points": 23
+        },
+        {
+            "position": 20,
+            "team": "Norwich",
+            "points": 22
+        }
+    ],
+    "team_goals": {
+        "Manchester City": 99,
+        "Liverpool": 94,
+        "Chelsea": 76,
+        "Tottenham": 69,
+        "Arsenal": 61,
+        "Manchester United": 57,
+        "West Ham": 60,
+        "Leicester City": 62,
+        "Brighton": 42,
+        "Wolves": 38,
+        "Newcastle": 44,
+        "Crystal Palace": 50,
+        "Brentford": 48,
+        "Aston Villa": 52,
+        "Southampton": 43,
+        "Everton": 43,
+        "Leeds United": 42,
+        "Watford": 34,
+        "Burnley": 34,
+        "Norwich City": 23
+    },
+    "best_players": {
+        "league_best": {
+            "player": "Kevin De Bruyne",
+            "team": "Manchester City",
+            "role": "Midfielder"
+        },
+        "teams_best": {
+            "Manchester City": [
+                {
+                    "player": "Kevin De Bruyne",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Bernardo Silva",
+                    "role": "Midfielder"
+                }
+            ],
+            "Liverpool": [
+                {
+                    "player": "Mohamed Salah",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Virgil van Dijk",
+                    "role": "Defender"
+                }
+            ],
+            "Chelsea": [
+                {
+                    "player": "Mason Mount",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Thiago Silva",
+                    "role": "Defender"
+                }
+            ],
+            "Tottenham": [
+                {
+                    "player": "Son Heung-min",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Harry Kane",
+                    "role": "Forward"
+                }
+            ],
+            "Arsenal": [
+                {
+                    "player": "Bukayo Saka",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Aaron Ramsdale",
+                    "role": "Goalkeeper"
+                }
+            ],
+            "Manchester United": [
+                {
+                    "player": "Cristiano Ronaldo",
+                    "role": "Forward"
+                },
+                {
+                    "player": "David de Gea",
+                    "role": "Goalkeeper"
+                }
+            ],
+            "West Ham": [
+                {
+                    "player": "Jarrod Bowen",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Declan Rice",
+                    "role": "Midfielder"
+                }
+            ],
+            "Leicester City": [
+                {
+                    "player": "James Maddison",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Kasper Schmeichel",
+                    "role": "Goalkeeper"
+                }
+            ],
+            "Brighton": [
+                {
+                    "player": "Marc Cucurella",
+                    "role": "Defender"
+                },
+                {
+                    "player": "Leandro Trossard",
+                    "role": "Forward"
+                }
+            ],
+            "Wolves": [
+                {
+                    "player": "José Sá",
+                    "role": "Goalkeeper"
+                },
+                {
+                    "player": "Rúben Neves",
+                    "role": "Midfielder"
+                }
+            ],
+            "Newcastle": [
+                {
+                    "player": "Allan Saint-Maximin",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Joelinton",
+                    "role": "Midfielder"
+                }
+            ],
+            "Crystal Palace": [
+                {
+                    "player": "Conor Gallagher",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Wilfried Zaha",
+                    "role": "Forward"
+                }
+            ],
+            "Brentford": [
+                {
+                    "player": "Ivan Toney",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Christian Eriksen",
+                    "role": "Midfielder"
+                }
+            ],
+            "Aston Villa": [
+                {
+                    "player": "Emi Buendía",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Ollie Watkins",
+                    "role": "Forward"
+                }
+            ],
+            "Southampton": [
+                {
+                    "player": "James Ward-Prowse",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Kyle Walker-Peters",
+                    "role": "Defender"
+                }
+            ],
+            "Everton": [
+                {
+                    "player": "Richarlison",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Jordan Pickford",
+                    "role": "Goalkeeper"
+                }
+            ],
+            "Leeds United": [
+                {
+                    "player": "Raphinha",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Kalvin Phillips",
+                    "role": "Midfielder"
+                }
+            ],
+            "Watford": [
+                {
+                    "player": "Emmanuel Dennis",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Ismaïla Sarr",
+                    "role": "Forward"
+                }
+            ],
+            "Burnley": [
+                {
+                    "player": "Nick Pope",
+                    "role": "Goalkeeper"
+                },
+                {
+                    "player": "Maxwel Cornet",
+                    "role": "Forward"
+                }
+            ],
+            "Norwich City": [
+                {
+                    "player": "Teemu Pukki",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Grant Hanley",
+                    "role": "Defender"
+                }
+            ]
+        }
+    }
+    },
+    
+    "2023": {
+    "top_teams_by_goals": [
+        {
+            "team": "Manchester City",
+            "goals": 94
+        },
+        {
+            "team": "Arsenal",
+            "goals": 88
+        },
+        {
+            "team": "Liverpool",
+            "goals": 75
+        },
+        {
+            "team": "Tottenham",
+            "goals": 70
+        },
+        {
+            "team": "Newcastle",
+            "goals": 68
+        }
+    ],
+    "top_players_by_goals": [
+        {
+            "player": "Erling Haaland",
+            "team": "Manchester City",
+            "goals": 36
+        },
+        {
+            "player": "Harry Kane",
+            "team": "Tottenham",
+            "goals": 30
+        },
+        {
+            "player": "Ivan Toney",
+            "team": "Brentford",
+            "goals": 20
+        },
+        {
+            "player": "Mohamed Salah",
+            "team": "Liverpool",
+            "goals": 19
+        },
+        {
+            "player": "Callum Wilson",
+            "team": "Newcastle",
+            "goals": 18
+        }
+    ],
+    "top_players_by_assists": [
+        {
+            "player": "Kevin De Bruyne",
+            "team": "Manchester City",
+            "assists": 16
+        },
+        {
+            "player": "Leandro Trossard",
+            "team": "Arsenal/Brighton",
+            "assists": 12
+        },
+        {
+            "player": "Mohamed Salah",
+            "team": "Liverpool",
+            "assists": 12
+        },
+        {
+            "player": "Bukayo Saka",
+            "team": "Arsenal",
+            "assists": 11
+        },
+        {
+            "player": "Michael Olise",
+            "team": "Crystal Palace",
+            "assists": 11
+        }
+    ],
+    "league_table": [
+        {
+            "position": 1,
+            "team": "Manchester City",
+            "points": 89
+        },
+        {
+            "position": 2,
+            "team": "Arsenal",
+            "points": 84
+        },
+        {
+            "position": 3,
+            "team": "Manchester United",
+            "points": 75
+        },
+        {
+            "position": 4,
+            "team": "Newcastle",
+            "points": 71
+        },
+        {
+            "position": 5,
+            "team": "Liverpool",
+            "points": 67
+        },
+        {
+            "position": 6,
+            "team": "Brighton",
+            "points": 62
+        },
+        {
+            "position": 7,
+            "team": "Aston Villa",
+            "points": 61
+        },
+        {
+            "position": 8,
+            "team": "Tottenham",
+            "points": 60
+        },
+        {
+            "position": 9,
+            "team": "Brentford",
+            "points": 59
+        },
+        {
+            "position": 10,
+            "team": "Fulham",
+            "points": 52
+        },
+        {
+            "position": 11,
+            "team": "Crystal Palace",
+            "points": 45
+        },
+        {
+            "position": 12,
+            "team": "Chelsea",
+            "points": 44
+        },
+        {
+            "position": 13,
+            "team": "Wolves",
+            "points": 41
+        },
+        {
+            "position": 14,
+            "team": "West Ham",
+            "points": 40
+        },
+        {
+            "position": 15,
+            "team": "Bournemouth",
+            "points": 39
+        },
+        {
+            "position": 16,
+            "team": "Nottingham Forest",
+            "points": 38
+        },
+        {
+            "position": 17,
+            "team": "Everton",
+            "points": 36
+        },
+        {
+            "position": 18,
+            "team": "Leicester City",
+            "points": 34
+        },
+        {
+            "position": 19,
+            "team": "Leeds United",
+            "points": 31
+        },
+        {
+            "position": 20,
+            "team": "Southampton",
+            "points": 25
+        }
+    ],
+    "team_goals": {
+        "Manchester City": 94,
+        "Arsenal": 88,
+        "Liverpool": 75,
+        "Tottenham": 70,
+        "Newcastle": 68,
+        "Manchester United": 58,
+        "Brighton": 72,
+        "Brentford": 58,
+        "Fulham": 55,
+        "Chelsea": 38,
+        "Aston Villa": 51,
+        "Crystal Palace": 40,
+        "Wolves": 31,
+        "Leeds United": 48,
+        "Everton": 34,
+        "Leicester City": 51,
+        "West Ham": 42,
+        "Bournemouth": 37,
+        "Nottingham Forest": 38,
+        "Southampton": 36
+    },
+    "best_players": {
+        "league_best": {
+            "player": "Erling Haaland",
+            "team": "Manchester City",
+            "role": "Forward"
+        },
+        "teams_best": {
+            "Manchester City": [
+                {
+                    "player": "Erling Haaland",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Kevin De Bruyne",
+                    "role": "Midfielder"
+                }
+            ],
+            "Arsenal": [
+                {
+                    "player": "Bukayo Saka",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Martin Ødegaard",
+                    "role": "Midfielder"
+                }
+            ],
+            "Liverpool": [
+                {
+                    "player": "Mohamed Salah",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Alisson Becker",
+                    "role": "Goalkeeper"
+                }
+            ],
+            "Tottenham": [
+                {
+                    "player": "Harry Kane",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Son Heung-min",
+                    "role": "Forward"
+                }
+            ],
+            "Newcastle": [
+                {
+                    "player": "Callum Wilson",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Bruno Guimarães",
+                    "role": "Midfielder"
+                }
+            ],
+            "Manchester United": [
+                {
+                    "player": "Marcus Rashford",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Casemiro",
+                    "role": "Midfielder"
+                }
+            ],
+            "Brighton": [
+                {
+                    "player": "Alexis Mac Allister",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Kaoru Mitoma",
+                    "role": "Forward"
+                }
+            ],
+            "Brentford": [
+                {
+                    "player": "Ivan Toney",
+                    "role": "Forward"
+                },
+                {
+                    "player": "David Raya",
+                    "role": "Goalkeeper"
+                }
+            ],
+            "Fulham": [
+                {
+                    "player": "Aleksandar Mitrović",
+                    "role": "Forward"
+                },
+                {
+                    "player": "João Palhinha",
+                    "role": "Midfielder"
+                }
+            ],
+            "Chelsea": [
+                {
+                    "player": "Thiago Silva",
+                    "role": "Defender"
+                },
+                {
+                    "player": "Enzo Fernández",
+                    "role": "Midfielder"
+                }
+            ],
+            "Aston Villa": [
+                {
+                    "player": "Ollie Watkins",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Emi Martínez",
+                    "role": "Goalkeeper"
+                }
+            ],
+            "Crystal Palace": [
+                {
+                    "player": "Eberechi Eze",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Michael Olise",
+                    "role": "Forward"
+                }
+            ],
+            "Wolves": [
+                {
+                    "player": "Rúben Neves",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Daniel Podence",
+                    "role": "Forward"
+                }
+            ],
+            "Leeds United": [
+                {
+                    "player": "Rodrigo",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Jack Harrison",
+                    "role": "Midfielder"
+                }
+            ],
+            "Everton": [
+                {
+                    "player": "Dwight McNeil",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Jordan Pickford",
+                    "role": "Goalkeeper"
+                }
+            ],
+            "Leicester City": [
+                {
+                    "player": "James Maddison",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Harvey Barnes",
+                    "role": "Forward"
+                }
+            ],
+            "West Ham": [
+                {
+                    "player": "Declan Rice",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Jarrod Bowen",
+                    "role": "Forward"
+                }
+            ],
+            "Bournemouth": [
+                {
+                    "player": "Philip Billing",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Dominic Solanke",
+                    "role": "Forward"
+                }
+            ],
+            "Nottingham Forest": [
+                {
+                    "player": "Morgan Gibbs-White",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Taiwo Awoniyi",
+                    "role": "Forward"
+                }
+            ],
+            "Southampton": [
+                {
+                    "player": "James Ward-Prowse",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Ché Adams",
+                    "role": "Forward"
+                }
+            ]
+        }
+    }
+    },
+    "2024": {
+    "top_teams_by_goals": [
+        {
+            "team": "Manchester City",
+            "goals": 96
+        },
+        {
+            "team": "Arsenal",
+            "goals": 91
+        },
+        {
+            "team": "Liverpool",
+            "goals": 86
+        },
+        {
+            "team": "Aston Villa",
+            "goals": 76
+        },
+        {
+            "team": "Tottenham",
+            "goals": 74
+        }
+    ],
+    "top_players_by_goals": [
+        {
+            "player": "Haaland",
+            "team": "Manchester City",
+            "goals": 27
+        },
+        {
+            "player": "Cole Palmer",
+            "team": "Chelsea",
+            "goals": 22
+        },
+        {
+            "player": "Alexander Isak",
+            "team": "Newcastle",
+            "goals": 21
+        },
+        {
+            "player": "Ollie Watkins",
+            "team": "Aston Villa",
+            "goals": 19
+        },
+        {
+            "player": "Phil Foden",
+            "team": "Manchester City",
+            "goals": 19
+        }
+    ],
+    "top_players_by_assists": [
+        {
+            "player": "Kevin De Bruyne",
+            "team": "Manchester City",
+            "assists": 16
+        },
+        {
+            "player": "Bukayo Saka",
+            "team": "Arsenal",
+            "assists": 12
+        },
+        {
+            "player": "Martin Ødegaard",
+            "team": "Arsenal",
+            "assists": 11
+        },
+        {
+            "player": "Phil Foden",
+            "team": "Manchester City",
+            "assists": 10
+        },
+        {
+            "player": "Leandro Trossard",
+            "team": "Arsenal",
+            "assists": 9
+        }
+    ],
+    "league_table": [
+            {
+                "position": 1,
+                "team": "Manchester City",
+                "points": 91
+            },
+            {
+                "position": 2,
+                "team": "Arsenal",
+                "points": 89
+            },
+            {
+                "position": 3,
+                "team": "Liverpool",
+                "points": 82
+            },
+            {
+                "position": 4,
+                "team": "Aston Villa",
+                "points": 68
+            },
+            {
+                "position": 5,
+                "team": "Tottenham",
+                "points": 66
+            },
+            {
+                "position": 6,
+                "team": "Chelsea",
+                "points": 63
+            },
+            {
+                "position": 7,
+                "team": "Newcastle",
+                "points": 60
+            },
+            {
+                "position": 8,
+                "team": "Manchester United",
+                "points": 60
+            },
+            {
+                "position": 9,
+                "team": "West Ham",
+                "points": 52
+            },
+            {
+                "position": 10,
+                "team": "Crystal Palace",
+                "points": 49
+            },
+            {
+                "position": 11,
+                "team": "Brighton",
+                "points": 48
+            },
+            {
+                "position": 12,
+                "team": "Bournemouth",
+                "points": 48
+            },
+            {
+                "position": 13,
+                "team": "Fulham",
+                "points": 47
+            },
+            {
+                "position": 14,
+                "team": "Wolves",
+                "points": 46
+            },
+            {
+                "position": 15,
+                "team": "Everton",
+                "points": 40
+            },
+            {
+                "position": 16,
+                "team": "Brentford",
+                "points": 39
+            },
+            {
+                "position": 17,
+                "team": "Nottingham Forest",
+                "points": 32
+            },
+            {
+                "position": 18,
+                "team": "Luton Town",
+                "points": 26
+            },
+            {
+                "position": 19,
+                "team": "Burnley",
+                "points": 24
+            },
+            {
+                "position": 20,
+                "team": "Sheffield",
+                "points": 16
+            }
+    ],
+    "team_goals": {
+        "Manchester City": 96,
+        "Arsenal": 91,
+        "Liverpool": 86,
+        "Aston Villa": 76,
+        "Tottenham": 74,
+        "Newcastle": 72,
+        "Chelsea": 71,
+        "Manchester United": 65,
+        "West Ham": 60,
+        "Brighton": 58,
+        "Wolves": 55,
+        "Bournemouth": 54,
+        "Fulham": 53,
+        "Crystal Palace": 50,
+        "Brentford": 48,
+        "Everton": 45,
+        "Nottingham Forest": 42,
+        "Luton Town": 38,
+        "Burnley": 35,
+        "Sheffield United": 30
+    },
+    "best_players": {
+        "league_best": {
+            "player": "Phil Foden",
+            "team": "Manchester City",
+            "role": "Midfielder"
+        },
+        "teams_best": {
+            "Manchester City": [
+                {
+                    "player": "Phil Foden",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Erling Haaland",
+                    "role": "Forward"
+                }
+            ],
+            "Arsenal": [
+                {
+                    "player": "Bukayo Saka",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Martin Ødegaard",
+                    "role": "Midfielder"
+                }
+            ],
+            "Liverpool": [
+                {
+                    "player": "Mohamed Salah",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Virgil van Dijk",
+                    "role": "Defender"
+                }
+            ],
+            "Aston Villa": [
+                {
+                    "player": "Ollie Watkins",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Douglas Luiz",
+                    "role": "Midfielder"
+                }
+            ],
+            "Tottenham": [
+                {
+                    "player": "Son Heung-min",
+                    "role": "Forward"
+                },
+                {
+                    "player": "James Maddison",
+                    "role": "Midfielder"
+                }
+            ],
+            "Newcastle": [
+                {
+                    "player": "Alexander Isak",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Bruno Guimarães",
+                    "role": "Midfielder"
+                }
+            ],
+            "Chelsea": [
+                {
+                    "player": "Cole Palmer",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Conor Gallagher",
+                    "role": "Midfielder"
+                }
+            ],
+            "Manchester United": [
+                {
+                    "player": "Bruno Fernandes",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Alejandro Garnacho",
+                    "role": "Forward"
+                }
+            ],
+            "Brighton": [
+                {
+                    "player": "Pascal Groß",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "João Pedro",
+                    "role": "Forward"
+                }
+            ],
+            "West Ham": [
+                {
+                    "player": "Jarrod Bowen",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Mohammed Kudus",
+                    "role": "Forward"
+                }
+            ],
+            "Wolves": [
+                {
+                    "player": "Matheus Cunha",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Hee-chan Hwang",
+                    "role": "Forward"
+                }
+            ],
+            "Bournemouth": [
+                {
+                    "player": "Dominic Solanke",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Justin Kluivert",
+                    "role": "Forward"
+                }
+            ],
+            "Fulham": [
+                {
+                    "player": "Rodrigo Muniz",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Andreas Pereira",
+                    "role": "Midfielder"
+                }
+            ],
+            "Crystal Palace": [
+                {
+                    "player": "Eberechi Eze",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Michael Olise",
+                    "role": "Forward"
+                }
+            ],
+            "Brentford": [
+                {
+                    "player": "Bryan Mbeumo",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Yoane Wissa",
+                    "role": "Forward"
+                }
+            ],
+            "Everton": [
+                {
+                    "player": "Dominic Calvert-Lewin",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Dwight McNeil",
+                    "role": "Midfielder"
+                }
+            ],
+            "Nottingham Forest": [
+                {
+                    "player": "Morgan Gibbs-White",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Taiwo Awoniyi",
+                    "role": "Forward"
+                }
+            ],
+            "Luton Town": [
+                {
+                    "player": "Carlton Morris",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Ross Barkley",
+                    "role": "Midfielder"
+                }
+            ],
+            "Burnley": [
+                {
+                    "player": "Lyle Foster",
+                    "role": "Forward"
+                },
+                {
+                    "player": "Zeki Amdouni",
+                    "role": "Forward"
+                }
+            ],
+            "Sheffield United": [
+                {
+                    "player": "James McAtee",
+                    "role": "Midfielder"
+                },
+                {
+                    "player": "Cameron Archer",
+                    "role": "Forward"
+                }
+            ]
+        }
+    }
+}
+}
